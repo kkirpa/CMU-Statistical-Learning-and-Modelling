@@ -10,6 +10,6 @@ Topics covered were:
 - Parallel Programming with Advanced MPI (Python)
 - SQL (basic and advanced)
 - Machine Learning with Spark
-- Recommender Syster
+- Recommender System
 - Big Data
 - Deep Learning
